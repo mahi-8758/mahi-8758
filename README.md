@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mahi%20kr&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="110%"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Engineering%20intelligent%2C%20secure%20systems" alt="Typing introduction" />
+</p>
 <h3 align="center">Aspiring DevSecOps & AI Engineer | Computer Science Student</h3>
 
 <p align="center">
