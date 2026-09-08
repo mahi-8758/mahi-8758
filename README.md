@@ -19,7 +19,7 @@
 
 ## 🧠 My Focus Areas
 - DevOps
-- AI-ML
+- Cloud Applications
 
 
 ## 📊 GitHub Stats & Trophies
